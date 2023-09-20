@@ -1,0 +1,7 @@
+![Home page 1](<Screenshot 2023-09-20 125408.png>)
+![Home page 2](<Screenshot 2023-09-20 125610-1.png>)
+![Home page 3](<Screenshot 2023-09-20 125653-1.png>)
+![My cart](<Screenshot 2023-09-20 125733-1.png>)
+![My orders](<Screenshot 2023-09-20 130009-1.png>)
+![login page](<Screenshot 2023-09-20 130029-1.png>)
+![sign up page](<Screenshot 2023-09-20 130049-1.png>)
